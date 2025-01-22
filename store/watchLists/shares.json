@@ -1,4 +1,6 @@
-[
-    "SBER",
-    "LKOH"
-]
+{
+    "tickers": [
+        "SBER",
+        "LKOH"
+    ]
+}

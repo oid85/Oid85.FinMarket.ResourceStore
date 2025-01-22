@@ -1,10 +1,12 @@
-[
-    "IMOEX",
-    "MCFTR",
-    "NG",
-    "RGBI",
-    "RGBITR",
-    "RTSI",
-    "RVI",
-    "XAU"
-]
+{
+    "tickers": [
+        "IMOEX",
+        "MCFTR",
+        "NG",
+        "RGBI",
+        "RGBITR",
+        "RTSI",
+        "RVI",
+        "XAU"
+    ]
+}

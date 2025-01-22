@@ -1,4 +1,6 @@
-[
-    "",
-    ""
-]
+{
+    "tickers": [
+        "USD000UTSTOM",
+        "CNYRUBTODTOM"
+    ]
+}

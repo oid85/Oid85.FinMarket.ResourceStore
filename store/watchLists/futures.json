@@ -1,12 +1,14 @@
-[
-    "CNYRUBF",
-    "CR",
-    "EURRUBF",
-    "Eu",
-    "GLDRUBF",
-    "GL",
-    "IMOEXF",
-    "MM",
-    "USDRUBF",        
-    "Si"
-]
+{
+    "tickers": [
+        "CNYRUBF",
+        "CR",
+        "EURRUBF",
+        "Eu",
+        "GLDRUBF",
+        "GL",
+        "IMOEXF",
+        "MM",
+        "USDRUBF",        
+        "Si"
+    ]
+}
