@@ -1,0 +1,29 @@
+[
+    {
+        "baseAssetTicker": "IMOEX",
+        "foreverFutureTicker": "IMOEXF",
+        "futureTickerPrefix": "MX",
+        "multiplier": 1000.0
+    },
+
+    {
+        "baseAssetTicker": "CNY/RUB",
+        "foreverFutureTicker": "CNYRUBF",
+        "futureTickerPrefix": "CR",
+        "multiplier": 1000.0
+    },
+
+    {
+        "baseAssetTicker": "EUR/USD",
+        "foreverFutureTicker": "",
+        "futureTickerPrefix": "ED",
+        "multiplier": 1000.0
+    },
+
+    {
+        "baseAssetTicker": "USD/RUB",
+        "foreverFutureTicker": "USDRUBF",
+        "futureTickerPrefix": "Si",
+        "multiplier": 1000.0
+    }
+]

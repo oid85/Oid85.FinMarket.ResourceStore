@@ -1,0 +1,21 @@
+{
+    "ticker": "SBER",    
+    "beta": 0.0,
+    "totalSharesAo": 0,
+    "totalSharesAp": 0,
+    "revenue": 0.0,
+    "netIncome": 0.0,
+    "operatingIncome": 0.0,
+    "ebitda": 0.0,
+    "pe": 0.0,
+    "pb": 0.0,
+    "ev": 0.0,
+    "roe": 0.0,
+    "roa": 0.0,
+    "eps": 0.0,
+    "netInterestMargin": 0.0,
+    "totalDebt": 0.0,
+    "netDebt": 0.0,
+    "forecastDividendAo": 0.0,
+    "forecastDividendAp": 0.0
+}
