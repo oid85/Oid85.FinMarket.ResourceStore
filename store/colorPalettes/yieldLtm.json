@@ -1,37 +1,37 @@
 [
     {
-        "highLevelPrc": 15.0,
-        "lowLevelPrc": 10.0,
-        "color": ""
+        "highLevel": 15.0,
+        "lowLevel": 10.0,
+        "colorCode": ""
     },
 
     {
-        "highLevelPrc": 10.0,
-        "lowLevelPrc": 5.0,
-        "color": ""
+        "highLevel": 10.0,
+        "lowLevel": 5.0,
+        "colorCode": ""
     },
 
     {
-        "highLevelPrc": 5.0,
-        "lowLevelPrc": 0.0,
-        "color": ""
+        "highLevel": 5.0,
+        "lowLevel": 0.0,
+        "colorCode": ""
     },
 
     {
-        "highLevelPrc": 0.0,
-        "lowLevelPrc": -5.0,
-        "color": ""
+        "highLevel": 0.0,
+        "lowLevel": -5.0,
+        "colorCode": ""
     },
 
     {
-        "highLevelPrc": -5.0,
-        "lowLevelPrc": -10.0,
-        "color": ""
+        "highLevel": -5.0,
+        "lowLevel": -10.0,
+        "colorCode": ""
     },
 
     {
-        "highLevelPrc": -10.0,
-        "lowLevelPrc": -15.0,
-        "color": ""
+        "highLevel": -10.0,
+        "lowLevel": -15.0,
+        "colorCode": ""
     }
 ]
