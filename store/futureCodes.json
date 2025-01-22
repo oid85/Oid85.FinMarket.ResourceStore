@@ -1,63 +1,61 @@
-{
-    "codes": [
-        {
-            "suffix": "F",
-            "month": "январь"
-        },
-    
-        {
-            "suffix": "G",
-            "month": "февраль"
-        },
-    
-        {
-            "suffix": "H",
-            "month": "март"
-        },
-    
-        {
-            "suffix": "J",
-            "month": "апрель"
-        },
-    
-        {
-            "suffix": "K",
-            "month": "май"
-        },
-    
-        {
-            "suffix": "M",
-            "month": "июнь"
-        },
-    
-        {
-            "suffix": "N",
-            "month": "июль"
-        },
-    
-        {
-            "suffix": "Q",
-            "month": "август"
-        },
-    
-        {
-            "suffix": "U",
-            "month": "сентябрь"
-        },
-    
-        {
-            "suffix": "V",
-            "month": "октябрь"
-        },
-    
-        {
-            "suffix": "X",
-            "month": "ноябрь"
-        },
-    
-        {
-            "suffix": "Z",
-            "month": "декабрь"
-        }
-    ]
-}
+[
+    {
+        "suffix": "F",
+        "month": "январь"
+    },
+
+    {
+        "suffix": "G",
+        "month": "февраль"
+    },
+
+    {
+        "suffix": "H",
+        "month": "март"
+    },
+
+    {
+        "suffix": "J",
+        "month": "апрель"
+    },
+
+    {
+        "suffix": "K",
+        "month": "май"
+    },
+
+    {
+        "suffix": "M",
+        "month": "июнь"
+    },
+
+    {
+        "suffix": "N",
+        "month": "июль"
+    },
+
+    {
+        "suffix": "Q",
+        "month": "август"
+    },
+
+    {
+        "suffix": "U",
+        "month": "сентябрь"
+    },
+
+    {
+        "suffix": "V",
+        "month": "октябрь"
+    },
+
+    {
+        "suffix": "X",
+        "month": "ноябрь"
+    },
+
+    {
+        "suffix": "Z",
+        "month": "декабрь"
+    }
+]

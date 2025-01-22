@@ -1,0 +1,19 @@
+[
+    {
+        "highLevelPrc": 15.0,
+        "lowLevelPrc": 10.0,
+        "color": ""
+    },
+
+    {
+        "highLevelPrc": 10.0,
+        "lowLevelPrc": 5.0,
+        "color": ""
+    },
+
+    {
+        "highLevelPrc": 5.0,
+        "lowLevelPrc": 0.0,
+        "color": ""
+    }
+]
