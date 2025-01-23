@@ -1,20 +1,86 @@
 {
-    "ticker": "LKOH",
-    "totalSharesAo": 0,
-    "totalSharesAp": 0,
-    "revenue": 0.0,
-    "netIncome": 0.0,
-    "operatingIncome": 0.0,
-    "ebitda": 0.0,
-    "pe": 3.13,
-    "pb": 0.0,
-    "ev": 0.0,
-    "roe": 0.0,
-    "roa": 0.0,
-    "eps": 0.0,
-    "netInterestMargin": 0.0,
-    "totalDebt": 0.0,
-    "netDebt": 0.0,
-    "forecastDividendAo": 0.0,
-    "forecastDividendAp": 0.0
+    "totalSharesAo": {
+        "value": 0.0,
+        "unit": "млн"
+    },
+
+    "totalSharesAp": {
+        "value": 0.0,
+        "unit": "млн"
+    },
+
+    "revenue": {
+        "value": 0.0,
+        "unit": ""
+    },
+
+    "netIncome": {
+        "value": 0.0,
+        "unit": "млрд руб"
+    },
+
+    "operatingIncome": {
+        "value": 0.0,
+        "unit": "млрд руб"
+    },
+
+    "ebitda": {
+        "value": 0.0,
+        "unit": ""
+    },
+    
+    "pe": {
+        "value": 0.0,
+        "unit": ""
+    },
+
+    "pb": {
+        "value": 0.0,
+        "unit": ""
+    },
+
+    "ev": {
+        "value": 0.0,
+        "unit": "млрд руб"
+    },
+
+    "roe": {
+        "value": 0.0,
+        "unit": "%"
+    },
+
+    "roa": {
+        "value": 0.0,
+        "unit": "%"
+    },
+
+    "eps": {
+        "value": 0.0,
+        "unit": "руб"
+    },
+    
+    "netInterestMargin": {
+        "value": 0.0,
+        "unit": "%"
+    },
+    
+    "totalDebt": {
+        "value": 0.0,
+        "unit": ""
+    },
+    
+    "netDebt": {
+        "value": 0.0,
+        "unit": "млрд руб"
+    },
+    
+    "forecastDividendAo": {
+        "value": 0.0,
+        "unit": ""
+    },
+    
+    "forecastDividendAp": {
+        "value": 0.0,
+        "unit": ""
+    }
 }

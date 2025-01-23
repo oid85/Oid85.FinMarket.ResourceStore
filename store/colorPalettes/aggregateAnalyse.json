@@ -1,46 +1,46 @@
 [
     {
         "value": 4,
-        "colorCode": ""
+        "colorCode": "#00CC66"
     },
 
     {
         "value": 3,
-        "colorCode": ""
+        "colorCode": "#00CC66"
     },
 
     {
         "value": 2,
-        "colorCode": ""
+        "colorCode": "#FFFF99"
     },
 
     {
         "value": 1,
-        "colorCode": ""
+        "colorCode": "#FFFF99"
     },
 
     {
         "value": 0,
-        "colorCode": ""
+        "colorCode": "#FFFFFF"
     },
 
     {
         "value": -1,
-        "colorCode": ""
+        "colorCode": "#FF6633"
     },
 
     {
         "value": -2,
-        "colorCode": ""
+        "colorCode": "#FF6633"
     },
 
     {
         "value": -3,
-        "colorCode": ""
+        "colorCode": "#FF6633"
     },
 
     {
         "value": -4,
-        "colorCode": ""
+        "colorCode": "#FF6633"
     }
 ]

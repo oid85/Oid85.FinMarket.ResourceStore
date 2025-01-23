@@ -1,0 +1,16 @@
+[
+    {
+        "value": "Перепроданность",
+        "colorCode": "#00CC66"
+    },
+
+    {
+        "value": "Перекупленность",
+        "colorCode": "#FF6633"
+    },
+
+    {
+        "value": "",
+        "colorCode": "#FFFFFF"
+    }
+]
