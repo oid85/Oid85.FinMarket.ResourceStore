@@ -1,36 +1,36 @@
 {
     "totalSharesAo": {
-        "value": 0.0,
+        "value": 692.9,
         "unit": "млн"
     },
 
     "totalSharesAp": {
-        "value": 0.0,
+        "value": 0,
         "unit": "млн"
     },
 
     "revenue": {
-        "value": 0.0,
-        "unit": ""
+        "value": 8655,
+        "unit": "млрд руб"
     },
 
     "netIncome": {
-        "value": 0.0,
+        "value": 1181,
         "unit": "млрд руб"
     },
 
     "operatingIncome": {
-        "value": 0.0,
+        "value": 1510,
         "unit": "млрд руб"
     },
 
     "ebitda": {
-        "value": 0.0,
-        "unit": ""
+        "value": 984.8,
+        "unit": "млрд руб"
     },
     
     "pe": {
-        "value": 0.0,
+        "value": 4.22,
         "unit": ""
     },
 
@@ -39,8 +39,13 @@
         "unit": ""
     },
 
+    "pbv": {
+        "value": 0.78,
+        "unit": ""
+    },
+
     "ev": {
-        "value": 0.0,
+        "value": 4224,
         "unit": "млрд руб"
     },
 
@@ -55,7 +60,7 @@
     },
 
     "eps": {
-        "value": 0.0,
+        "value": 1704,
         "unit": "руб"
     },
     
@@ -65,22 +70,12 @@
     },
     
     "totalDebt": {
-        "value": 0.0,
-        "unit": ""
-    },
-    
-    "netDebt": {
-        "value": 0.0,
+        "value": 368.0,
         "unit": "млрд руб"
     },
     
-    "forecastDividendAo": {
-        "value": 0.0,
-        "unit": ""
-    },
-    
-    "forecastDividendAp": {
-        "value": 0.0,
-        "unit": ""
+    "netDebt": {
+        "value": -759.0,
+        "unit": "млрд руб"
     }
 }
