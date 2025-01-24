@@ -1,81 +1,81 @@
 {
     "tickerAo": {
-        "value": "SBER",
+        "value": "BSPB",
         "unit": ""
     },
 
     "tickerAp": {
-        "value": "SBERP",
+        "value": "BSPBP",
         "unit": ""
     },
 
     "totalSharesAo": {
-        "value": 21587.0,
+        "value": 380.7,
         "unit": "млн"
     },
 
     "totalSharesAp": {
-        "value": 1000.0,
+        "value": 20.1,
         "unit": "млн"
     },
 
     "revenue": {
-        "value": 0.0,
+        "value": 0,
         "unit": "млрд руб"
     },
 
     "netIncome": {
-        "value": 1584.0,
+        "value": 43.3,
         "unit": "млрд руб"
     },
 
     "operatingIncome": {
-        "value": 2358.0,
+        "value": 0,
         "unit": "млрд руб"
     },
 
     "ebitda": {
-        "value": 0.0,
+        "value": 984.8,
         "unit": "млрд руб"
     },
     
     "pe": {
-        "value": 3.96,
+        "value": 4.05,
         "unit": ""
     },
 
     "pb": {
-        "value": 0.94,
+        "value": 0.93,
         "unit": ""
     },
 
     "pbv": {
-        "value": 0.0,
+        "value": 0.78,
         "unit": ""
     },
 
     "ev": {
-        "value": 3717.0,
+        "value": 113.3,
         "unit": "млрд руб"
     },
 
     "roe": {
-        "value": 25.4,
+        "value": 24.2,
         "unit": "%"
     },
 
     "roa": {
-        "value": 2.9,
+        "value": 0.0,
         "unit": "%"
     },
 
     "eps": {
-        "value": 73.4,
+        "value": 94.6,
         "unit": "руб"
     },
     
     "netInterestMargin": {
-        "value": 5.96,
+        "value": 6.6,
         "unit": "%"
     },
     
@@ -85,7 +85,7 @@
     },
     
     "netDebt": {
-        "value": -2550.0,
+        "value": -62.2,
         "unit": "млрд руб"
     }
 }

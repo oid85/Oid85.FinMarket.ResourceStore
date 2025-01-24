@@ -1,81 +1,81 @@
 {
     "tickerAo": {
-        "value": "SBER",
+        "value": "SNGS",
         "unit": ""
     },
 
     "tickerAp": {
-        "value": "SBERP",
+        "value": "SNGSP",
         "unit": ""
     },
 
     "totalSharesAo": {
-        "value": 21587.0,
+        "value": 35726.0,
         "unit": "млн"
     },
 
     "totalSharesAp": {
-        "value": 1000.0,
+        "value": 7702,
         "unit": "млн"
     },
 
     "revenue": {
-        "value": 0.0,
+        "value": 2245.0,
         "unit": "млрд руб"
     },
 
     "netIncome": {
-        "value": 1584.0,
+        "value": 1322.0,
         "unit": "млрд руб"
     },
 
     "operatingIncome": {
-        "value": 2358.0,
+        "value": 534.0,
         "unit": "млрд руб"
     },
 
     "ebitda": {
-        "value": 0.0,
+        "value": 635.6,
         "unit": "млрд руб"
     },
     
     "pe": {
-        "value": 3.96,
+        "value": 1.1,
         "unit": ""
     },
 
     "pb": {
-        "value": 0.94,
-        "unit": ""
-    },
-
-    "pbv": {
         "value": 0.0,
         "unit": ""
     },
 
+    "pbv": {
+        "value": 0.21,
+        "unit": ""
+    },
+
     "ev": {
-        "value": 3717.0,
+        "value": -4509.0,
         "unit": "млрд руб"
     },
 
     "roe": {
-        "value": 25.4,
+        "value": 18.7,
         "unit": "%"
     },
 
     "roa": {
-        "value": 2.9,
+        "value": 16.4,
         "unit": "%"
     },
 
     "eps": {
-        "value": 73.4,
+        "value": 37.0,
         "unit": "руб"
     },
     
     "netInterestMargin": {
-        "value": 5.96,
+        "value": 0,
         "unit": "%"
     },
     
@@ -85,7 +85,7 @@
     },
     
     "netDebt": {
-        "value": -2550.0,
+        "value": -5967.0,
         "unit": "млрд руб"
     }
 }

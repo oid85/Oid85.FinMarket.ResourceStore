@@ -1,4 +1,14 @@
 {
+    "tickerAo": {
+        "value": "LKOH",
+        "unit": ""
+    },
+
+    "tickerAp": {
+        "value": "",
+        "unit": ""
+    },
+
     "totalSharesAo": {
         "value": 692.9,
         "unit": "млн"
