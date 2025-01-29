@@ -1,0 +1,21 @@
+[
+    {
+        "value": "Покупать",
+        "colorCode": "#00CC66"
+    },
+
+    {
+        "value": "Продавать",
+        "colorCode": "#FF6633"
+    },
+
+    {
+        "value": "Держать",
+        "colorCode": "#FFFF99"
+    },
+
+    {
+        "value": "",
+        "colorCode": "#FFFFFF"
+    }
+]
