@@ -9,6 +9,11 @@
         "unit": ""
     },
 
+    "beta": {
+        "value": 0.0,
+        "unit": ""
+    },
+	
     "totalSharesAo": {
         "value": 692.9,
         "unit": "млн"
