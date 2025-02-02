@@ -1,0 +1,25 @@
+{
+    "sectors": [
+        "goverment"
+    ],
+
+    "currencies": [
+        "rub"
+    ],
+
+    "riskLevels": {
+        "low": true,
+        "middle": true,
+        "high": true
+    },
+
+    "yield": {
+        "max": 30.0,
+        "min": 10.0
+    },
+
+    "yearsToMaturity": {
+        "max": 5,
+        "min": 2
+    }
+}
