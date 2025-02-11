@@ -21,5 +21,10 @@
     "yearsToMaturity": {
         "max": 5,
         "min": 2
+    },
+
+    "price": {
+        "max": 1500.0,
+        "min": 400.0
     }
 }
