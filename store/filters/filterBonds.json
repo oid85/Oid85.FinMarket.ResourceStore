@@ -1,10 +1,10 @@
 {
     "sectors": [
-        "goverment"
+        "all"
     ],
 
     "currencies": [
-        "rub"
+        "all"
     ],
 
     "riskLevels": {
@@ -25,6 +25,6 @@
 
     "price": {
         "max": 1500.0,
-        "min": 400.0
+        "min": 0.0
     }
 }
