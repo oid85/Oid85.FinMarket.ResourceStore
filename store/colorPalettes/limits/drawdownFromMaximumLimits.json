@@ -1,0 +1,25 @@
+[
+    {
+        "highLevel": 0.0,
+        "lowLevel": -5.0,
+        "colorCode": "#FF6633"
+    },
+
+    {
+        "highLevel": -5.0,
+        "lowLevel": -10.0,
+        "colorCode": "#FF6633"
+    },
+
+    {
+        "highLevel": -10.0,
+        "lowLevel": -15.0,
+        "colorCode": "#FF6633"
+    },
+
+    {
+        "highLevel": -15.0,
+        "lowLevel": -100.0,
+        "colorCode": "#FF6633"
+    }
+]
