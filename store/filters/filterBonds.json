@@ -10,7 +10,8 @@
     "riskLevels": {
         "low": true,
         "middle": true,
-        "high": true
+        "high": false,
+        "veryHigh": false
     },
 
     "yield": {
