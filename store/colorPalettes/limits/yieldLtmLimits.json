@@ -1,6 +1,6 @@
 [
     {
-        "highLevel": 15.0,
+        "highLevel": 1000.0,
         "lowLevel": 10.0,
         "colorCode": "#00CC66"
     },
@@ -31,7 +31,7 @@
 
     {
         "highLevel": -10.0,
-        "lowLevel": -15.0,
+        "lowLevel": -1000.0,
         "colorCode": "#FF6633"
     }
 ]
