@@ -20,8 +20,8 @@
     },
 
     "yearsToMaturity": {
-        "max": 5,
-        "min": 2
+        "max": 10,
+        "min": 1
     },
 
     "price": {
