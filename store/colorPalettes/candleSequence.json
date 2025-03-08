@@ -1,16 +1,16 @@
 [
     {
         "value": "Белые свечи",
-        "colorCode": "#00CC66"
+        "color": "#00CC66"
     },
 
     {
         "value": "Черные свечи",
-        "colorCode": "#FF6633"
+        "color": "#FF6633"
     },
 
     {
         "value": "",
-        "colorCode": "#FFFFFF"
+        "color": "#FFFFFF"
     }
 ]

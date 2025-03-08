@@ -2,30 +2,30 @@
     {
         "highLevel": 100.0,
         "lowLevel": 30.0,
-        "colorCode": "#FF6633"
+        "color": "#FF6633"
     },
 
     {
         "highLevel": 30.0,
         "lowLevel": 20.0,
-        "colorCode": "#FF6633"
+        "color": "#FF6633"
     },
 
     {
         "highLevel": 20.0,
         "lowLevel": 10.0,
-        "colorCode": "#FF6633"
+        "color": "#FF6633"
     },
 
     {
         "highLevel": 10.0,
         "lowLevel": 5.0,
-        "colorCode": "#FF6633"
+        "color": "#FF6633"
     },
 
     {
         "highLevel": 5.0,
         "lowLevel": 0.0,
-        "colorCode": "#FF6633"
+        "color": "#FF6633"
     }
 ]

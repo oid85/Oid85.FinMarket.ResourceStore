@@ -2,36 +2,36 @@
     {
         "highLevel": 1000.0,
         "lowLevel": 10.0,
-        "colorCode": "#00CC66"
+        "color": "#00CC66"
     },
 
     {
         "highLevel": 10.0,
         "lowLevel": 5.0,
-        "colorCode": "#00CC66"
+        "color": "#00CC66"
     },
 
     {
         "highLevel": 5.0,
         "lowLevel": 0.0,
-        "colorCode": "#00CC66"
+        "color": "#00CC66"
     },
 
     {
         "highLevel": 0.0,
         "lowLevel": -5.0,
-        "colorCode": "#FF6633"
+        "color": "#FF6633"
     },
 
     {
         "highLevel": -5.0,
         "lowLevel": -10.0,
-        "colorCode": "#FF6633"
+        "color": "#FF6633"
     },
 
     {
         "highLevel": -10.0,
         "lowLevel": -1000.0,
-        "colorCode": "#FF6633"
+        "color": "#FF6633"
     }
 ]

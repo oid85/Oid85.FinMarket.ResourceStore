@@ -1,21 +1,21 @@
 [
     {
         "value": "Покупать",
-        "colorCode": "#00CC66"
+        "color": "#00CC66"
     },
 
     {
         "value": "Продавать",
-        "colorCode": "#FF6633"
+        "color": "#FF6633"
     },
 
     {
         "value": "Держать",
-        "colorCode": "#FFFF99"
+        "color": "#FFFF99"
     },
 
     {
         "value": "",
-        "colorCode": "#FFFFFF"
+        "color": "#FFFFFF"
     }
 ]

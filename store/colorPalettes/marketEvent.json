@@ -1,0 +1,66 @@
+[
+    {
+        "value": "SupertrendUp",
+        "color": "#00CC66"
+    },
+
+    {
+        "value": "SupertrendDown",
+        "color": "#FF6633"
+    },
+
+    {
+        "value": "CandleVolumeUp",
+        "color": "#00CC66"
+    },
+
+    {
+        "value": "CandleSequenceWhite",
+        "color": "#00CC66"
+    },
+
+    {
+        "value": "CandleSequenceBlack",
+        "color": "#FF6633"
+    },
+
+    {
+        "value": "RsiOverBoughtInput",
+        "color": "#FF6633"
+    },
+
+    {
+        "value": "RsiOverBoughtOutput",
+        "color": "#FFFF99"
+    },
+
+    {
+        "value": "RsiOverSoldInput",
+        "color": "#00CC66"
+    },
+
+    {
+        "value": "RsiOverSoldOutput",
+        "color": "#FFFF99"
+    },
+
+    {
+        "value": "CrossPriceLevel",
+        "color": "#FFFF99"
+    },
+
+    {
+        "value": "SpreadGreaterPercent1",
+        "color": "#00CC66"
+    },
+
+    {
+        "value": "SpreadGreaterPercent2",
+        "color": "#FFFF99"
+    },
+
+    {
+        "value": "SpreadGreaterPercent3",
+        "color": "#FF6633"
+    }
+]
