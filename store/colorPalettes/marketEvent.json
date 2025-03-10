@@ -62,5 +62,10 @@
     {
         "value": "SpreadGreaterPercent3",
         "color": "#FF6633"
+    },
+
+    {
+        "value": "ForecastReleased",
+        "color": "#00CC66"
     }
 ]
