@@ -1,22 +1,22 @@
 [
     {
         "value": 4,
-        "color": "#00CC66"
+        "color": "#00660e"
     },
 
     {
         "value": 3,
-        "color": "#00CC66"
+        "color": "#009914"
     },
 
     {
         "value": 2,
-        "color": "#00CC66"
+        "color": "#00cc1b"
     },
 
     {
         "value": 1,
-        "color": "#00CC66"
+        "color": "#00ff22"
     },
 
     {
@@ -26,21 +26,21 @@
 
     {
         "value": -1,
-        "color": "#FF6633"
+        "color": "#ff0000"
     },
 
     {
         "value": -2,
-        "color": "#FF6633"
+        "color": "#cc0000"
     },
 
     {
         "value": -3,
-        "color": "#FF6633"
+        "color": "#990000"
     },
 
     {
         "value": -4,
-        "color": "#FF6633"
+        "color": "#660000"
     }
 ]
