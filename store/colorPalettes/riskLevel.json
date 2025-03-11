@@ -1,21 +1,21 @@
 [
     {
         "value": "Низкий",
-        "color": "#00CC66"
+        "color": "#00ff22"
     },
 
     {
         "value": "Средний",
-        "color": "#FFFF99"
+        "color": "#eeff00"
     },
 
     {
         "value": "Высокий",
-        "color": "#FF6633"
+        "color": "#ff0000"
     },
 
     {
         "value": "Очень высокий",
-        "color": "#FF6633"
+        "color": "#ff0000"
     }
 ]

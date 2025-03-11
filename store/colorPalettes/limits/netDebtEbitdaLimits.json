@@ -2,18 +2,18 @@
     {
         "highLevel": 1000.0,
         "lowLevel": 5.0,
-        "color": "#FF6633"
+        "color": "#ff0000"
     },
 
     {
         "highLevel": 5.0,
         "lowLevel": 2.0,
-        "color": "#FFFF99"
+        "color": "#eeff00"
     },
 
     {
         "highLevel": 2.0,
         "lowLevel": -1000.0,
-        "color": "#00CC66"
+        "color": "#00ff22"
     }
 ]

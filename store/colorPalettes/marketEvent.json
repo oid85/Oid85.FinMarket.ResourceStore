@@ -1,71 +1,71 @@
 [
     {
         "value": "SupertrendUp",
-        "color": "#00CC66"
+        "color": "#00ff22"
     },
 
     {
         "value": "SupertrendDown",
-        "color": "#FF6633"
+        "color": "#ff0000"
     },
 
     {
         "value": "CandleVolumeUp",
-        "color": "#00CC66"
+        "color": "#00ff22"
     },
 
     {
         "value": "CandleSequenceWhite",
-        "color": "#00CC66"
+        "color": "#00ff22"
     },
 
     {
         "value": "CandleSequenceBlack",
-        "color": "#FF6633"
+        "color": "#ff0000"
     },
 
     {
         "value": "RsiOverBoughtInput",
-        "color": "#FF6633"
+        "color": "#ff0000"
     },
 
     {
         "value": "RsiOverBoughtOutput",
-        "color": "#FFFF99"
+        "color": "#eeff00"
     },
 
     {
         "value": "RsiOverSoldInput",
-        "color": "#00CC66"
+        "color": "#00ff22"
     },
 
     {
         "value": "RsiOverSoldOutput",
-        "color": "#FFFF99"
+        "color": "#eeff00"
     },
 
     {
         "value": "CrossPriceLevel",
-        "color": "#FFFF99"
+        "color": "#eeff00"
     },
 
     {
         "value": "SpreadGreaterPercent1",
-        "color": "#00CC66"
+        "color": "#00ff22"
     },
 
     {
         "value": "SpreadGreaterPercent2",
-        "color": "#FFFF99"
+        "color": "#eeff00"
     },
 
     {
         "value": "SpreadGreaterPercent3",
-        "color": "#FF6633"
+        "color": "#ff0000"
     },
 
     {
         "value": "ForecastReleased",
-        "color": "#00CC66"
+        "color": "#00ff22"
     }
 ]
