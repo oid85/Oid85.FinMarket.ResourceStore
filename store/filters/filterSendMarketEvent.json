@@ -1,0 +1,76 @@
+[
+    {
+        "enable": true,
+        "name": "SupertrendUp"
+    },
+    
+    {
+        "enable": true,
+        "name": "SupertrendDown"
+    },
+    
+    {
+        "enable": true,
+        "name": "CandleVolumeUp"
+    },
+    
+    {
+        "enable": true,
+        "name": "CandleSequenceWhite"
+    },
+    
+    {
+        "enable": true,
+        "name": "CandleSequenceBlack"
+    },
+    
+    {
+        "enable": true,
+        "name": "RsiOverBoughtInput"
+    },
+    
+    {
+        "enable": true,
+        "name": "RsiOverBoughtOutput"
+    },
+    
+    {
+        "enable": true,
+        "name": "RsiOverSoldInput"
+    },
+    
+    {
+        "enable": true,
+        "name": "RsiOverSoldOutput"
+    },
+    
+    {
+        "enable": true,
+        "name": "CrossPriceLevel"
+    },
+    
+    {
+        "enable": false,
+        "name": "SpreadGreaterPercent1"
+    },
+    
+    {
+        "enable": false,
+        "name": "SpreadGreaterPercent2"
+    },
+    
+    {
+        "enable": false,
+        "name": "SpreadGreaterPercent3"
+    },
+    
+    {
+        "enable": true,
+        "name": "ForecastReleased"
+    },
+    
+    {
+        "enable": true,
+        "name": "StrikeDay"
+    }
+]
