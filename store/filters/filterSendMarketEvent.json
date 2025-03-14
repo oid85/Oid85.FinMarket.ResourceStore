@@ -10,37 +10,37 @@
     },
     
     {
-        "enable": true,
+        "enable": false,
         "name": "CandleVolumeUp"
     },
     
     {
-        "enable": true,
+        "enable": false,
         "name": "CandleSequenceWhite"
     },
     
     {
-        "enable": true,
+        "enable": false,
         "name": "CandleSequenceBlack"
     },
     
     {
-        "enable": true,
+        "enable": false,
         "name": "RsiOverBoughtInput"
     },
     
     {
-        "enable": true,
+        "enable": false,
         "name": "RsiOverBoughtOutput"
     },
     
     {
-        "enable": true,
+        "enable": false,
         "name": "RsiOverSoldInput"
     },
     
     {
-        "enable": true,
+        "enable": false,
         "name": "RsiOverSoldOutput"
     },
     
@@ -65,7 +65,7 @@
     },
     
     {
-        "enable": true,
+        "enable": false,
         "name": "ForecastReleased"
     },
     
