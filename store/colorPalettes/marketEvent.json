@@ -67,5 +67,10 @@
     {
         "value": "ForecastReleased",
         "color": "#00ff22"
+    },
+
+    {
+        "value": "IntraDayImpulse",
+        "color": "#00ff22"
     }
 ]
