@@ -1,0 +1,96 @@
+{
+    "tickerAo": {
+        "value": "ELMT",
+        "unit": ""
+    },
+
+    "tickerAp": {
+        "value": "",
+        "unit": ""
+    },
+
+    "beta": {
+        "value": 0.0,
+        "unit": ""
+    },
+	
+    "totalSharesAo": {
+        "value": 444135.0,
+        "unit": "млн"
+    },
+
+    "totalSharesAp": {
+        "value": 0.0,
+        "unit": "млн"
+    },
+
+    "revenue": {
+        "value": 44.0,
+        "unit": "млрд руб"
+    },
+
+    "netIncome": {
+        "value": 8.98,
+        "unit": "млрд руб"
+    },
+
+    "operatingIncome": {
+        "value": 0.0,
+        "unit": "млрд руб"
+    },
+
+    "ebitda": {
+        "value": 11.0,
+        "unit": "млрд руб"
+    },
+    
+    "pe": {
+        "value": 8.56,
+        "unit": ""
+    },
+
+    "pb": {
+        "value": 0.0,
+        "unit": ""
+    },
+
+    "pbv": {
+        "value": 2.14,
+        "unit": ""
+    },
+
+    "ev": {
+        "value": 63.4,
+        "unit": "млрд руб"
+    },
+
+    "roe": {
+        "value": 18.3,
+        "unit": "%"
+    },
+
+    "roa": {
+        "value": 6.3,
+        "unit": "%"
+    },
+
+    "eps": {
+        "value": 0.02,
+        "unit": "руб"
+    },
+    
+    "netInterestMargin": {
+        "value": 0.0,
+        "unit": "%"
+    },
+    
+    "totalDebt": {
+        "value": 20.2,
+        "unit": "млрд руб"
+    },
+    
+    "netDebt": {
+        "value": 1.40,
+        "unit": "млрд руб"
+    }
+}
