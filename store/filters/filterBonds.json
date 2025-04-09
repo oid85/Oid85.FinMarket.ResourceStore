@@ -15,12 +15,12 @@
     },
 
     "yield": {
-        "max": 30.0,
-        "min": 10.0
+        "max": 100.0,
+        "min": 1.0
     },
 
     "yearsToMaturity": {
-        "max": 10,
+        "max": 100,
         "min": 1
     },
 
