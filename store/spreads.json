@@ -2,28 +2,24 @@
     {
         "baseAssetTicker": "IMOEX",
         "foreverFutureTicker": "IMOEXF",
-        "futureTickerPrefix": "MX",
-        "multiplier": 1000.0
+        "futureTickerPrefix": "MX"
     },
 
     {
         "baseAssetTicker": "CNY/RUB",
         "foreverFutureTicker": "CNYRUBF",
-        "futureTickerPrefix": "CR",
-        "multiplier": 1000.0
+        "futureTickerPrefix": "CR"
     },
 
     {
         "baseAssetTicker": "EUR/USD",
         "foreverFutureTicker": "",
-        "futureTickerPrefix": "ED",
-        "multiplier": 1000.0
+        "futureTickerPrefix": "ED"
     },
 
     {
         "baseAssetTicker": "USD/RUB",
         "foreverFutureTicker": "USDRUBF",
-        "futureTickerPrefix": "Si",
-        "multiplier": 1000.0
+        "futureTickerPrefix": "Si"
     }
 ]
