@@ -1,0 +1,16 @@
+[
+    {
+        "value": "Quarter",
+        "color": "#0000ff"
+    },
+
+    {
+        "value": "Semiannual",
+        "color": "#eeff00"
+    },
+
+    {
+        "value": "Annual",
+        "color": "#00ff22"
+    }
+]
