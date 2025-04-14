@@ -1,16 +1,16 @@
 [
     {
-        "value": "Quarter",
+        "value": "PeriodTypeQuarter",
         "color": "#0000ff"
     },
 
     {
-        "value": "Semiannual",
+        "value": "PeriodTypeSemiannual",
         "color": "#eeff00"
     },
 
     {
-        "value": "Annual",
+        "value": "PeriodTypeAnnual",
         "color": "#00ff22"
     }
 ]
