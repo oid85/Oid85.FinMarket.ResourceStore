@@ -1,3 +1,7 @@
-[
-	"RU000A10AUX8"
-]
+{
+    "name": "",
+    "description": "",
+    "tickers": [
+		"RU000A10AUX8"
+    ]
+}
