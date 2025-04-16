@@ -1,7 +1,21 @@
 {
-    "name": "",
-    "description": "",
+    "name": "Замещ.",
+    "description": "Замещающие облигации",
     "tickers": [
-
+        "RU000A105RH2",
+        "RU000A105A95",
+        "RU000A105JT4",
+        "RU000A105SG2",
+        "RU000A105KU0",
+        "RU000A105BY1",
+        "RU000A105A04",
+        "RU000A106G56",
+        "RU000A105R62",
+        "RU000A105XA5",
+        "RU000A105JH9",
+        "RU000A1056U0",
+        "RU000A105RZ4",
+        "RU000A107C67",
+        "RU000A10AUX8"
     ]
 }
