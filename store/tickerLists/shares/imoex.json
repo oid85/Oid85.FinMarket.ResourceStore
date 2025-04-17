@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "description": "",
+    "name": "IMOEX",
+    "description": "Акции индекса Мосбиржи",
     "tickers": [
         "SBERP",
         "SBER",

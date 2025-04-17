@@ -1,6 +1,6 @@
 {
-    "name": "Набл.",
-    "description": "Лист наблюдения",
+  "name": "Лист набл.",
+  "description": "Лист наблюдения",
     "tickers": [
 		"RU000A10AUX8"
     ]

@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "description": "",
+    "name": "Лист набл.",
+    "description": "Лист наблюдения",
     "tickers": [
         "CNYRUBF",
         "CR",
@@ -10,7 +10,7 @@
         "GL",
         "IMOEXF",
         "MM",
-        "USDRUBF",        
+        "USDRUBF",
         "Si"
     ]
 }
