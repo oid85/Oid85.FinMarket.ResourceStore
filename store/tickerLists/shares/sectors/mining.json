@@ -2,6 +2,11 @@
     "name": "Горнодобыча",
     "description": "Горнодобыча",
     "tickers": [
-        "ALRS"
+        "ALRS",
+        "GMKN",
+        "MLTR",
+        "PLZL",
+        "VSMO",
+        "ROLO"
     ]
 }
