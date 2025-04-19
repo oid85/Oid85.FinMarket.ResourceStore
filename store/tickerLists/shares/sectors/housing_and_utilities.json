@@ -2,6 +2,30 @@
     "name": "ЖКХ",
     "description": "ЖКХ",
     "tickers": [
-
+        "LSNGP", 
+        "OGKB", 
+        "PMSBP", 
+        "TGKBP", 
+        "UPRO", 
+        "VRSB", 
+        "MRKC", 
+        "MRKS", 
+        "MRKU", 
+        "MRKZ", 
+        "MSRS", 
+        "TGKA", 
+        "DVEC", 
+        "IRAO", 
+        "LSNG", 
+        "MRKV", 
+        "MRKY", 
+        "TGKB", 
+        "PMSB", 
+        "MSNG", 
+        "FEES", 
+        "HYDR", 
+        "KLSB", 
+        "TGKN", 
+        "MRKP"
     ]
 }

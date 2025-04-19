@@ -2,6 +2,24 @@
     "name": "Финансы",
     "description": "Финансы",
     "tickers": [
-
+        "MOEX", 
+        "SBER", 
+        "SBERP", 
+        "VTBR", 
+        "CBOM", 
+        "AFKS", 
+        "BSPB", 
+        "RENI", 
+        "SFIN", 
+        "SPBE", 
+        "T", 
+        "ZAYM", 
+        "LEAS", 
+        "MBNK", 
+        "SVCB", 
+        "CARM", 
+        "JETL", 
+        "MGKL", 
+        "FRHC"
     ]
 }
