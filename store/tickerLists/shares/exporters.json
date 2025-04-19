@@ -2,6 +2,28 @@
     "name": "Экспортеры",
     "description": "Акции компаний экспортеров",
     "tickers": [
-
+        "TRNFP", 
+        "AKRN", 
+        "PHOR", 
+        "NVTK", 
+        "ALRS", 
+        "MAGN", 
+        "GMKN", 
+        "NLMK", 
+        "CHMF", 
+        "BANE", 
+        "MTLR", 
+        "GAZC", 
+        "DSKY", 
+        "AMEZ", 
+        "MGNZ", 
+        "GAZS", 
+        "GAZT", 
+        "CIAN", 
+        "RUSI", 
+        "PMSB", 
+        "TATN", 
+        "LENT", 
+        "TATNP"
     ]
 }
