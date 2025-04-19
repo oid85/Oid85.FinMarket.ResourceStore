@@ -2,6 +2,25 @@
     "name": "Банки",
     "description": "Банки",
     "tickers": [
-
+        "SBER",
+        "VTBR",
+        "T",
+        "BSPB",
+        "KUZB",
+        "SVCB",
+        "CARM",
+        "CBOM",
+        "ROSB",
+        "MBNK",
+        "ZAYM",
+        "VZRZ",
+        "OFCB",
+        "AVAN",
+        "MOBB",
+        "USBN",
+        "PSBR",
+        "PRMB",
+        "RDRB",
+        "ABBN"
     ]
 }
