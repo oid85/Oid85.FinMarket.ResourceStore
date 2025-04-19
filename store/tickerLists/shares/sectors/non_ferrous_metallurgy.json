@@ -2,6 +2,14 @@
     "name": "Цв. мет.",
     "description": "Цветная металлургия",
     "tickers": [
-
+        "GMKN",
+        "RUAL",
+        "VSMO",
+        "ROLO",
+        "UNKL",
+        "CHZN",
+        "SUMZ",
+        "URAG",
+        "KUNF"
     ]
 }

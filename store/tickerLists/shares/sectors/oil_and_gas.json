@@ -2,6 +2,14 @@
     "name": "Нефтегаз",
     "description": "Нефтегаз",
     "tickers": [
-
+        "ROSN",
+        "LKOH",
+        "GAZP",
+        "SNGS",
+        "TATN",
+        "BANE",
+        "NVTK",
+        "SIBN",
+        "RNFT"
     ]
 }

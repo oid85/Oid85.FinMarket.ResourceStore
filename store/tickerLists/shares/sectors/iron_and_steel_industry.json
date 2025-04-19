@@ -2,6 +2,17 @@
     "name": "Чер. мет.",
     "description": "Черная металлургия",
     "tickers": [
-
+        "CHMF", 
+        "MTLR", 
+        "MTLR", 
+        "MAGN", 
+        "NLMK", 
+        "TRMK", 
+        "AMEZ", 
+        "IGST", 
+        "CHMK", 
+        "IGST", 
+        "URKZ", 
+        "CHKZ"
     ]
 }
