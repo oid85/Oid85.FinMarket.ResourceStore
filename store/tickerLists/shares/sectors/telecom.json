@@ -2,6 +2,16 @@
     "name": "Телекомы",
     "description": "Телекомы",
     "tickers": [
-
+        "RTKMP", 
+        "MTSS", 
+        "NSVZ", 
+        "TTLK", 
+        "RBCM", 
+        "RTKM", 
+        "NTZL", 
+        "CNTL", 
+        "MGTSP", 
+        "VEON", 
+        "CNTLP"
     ]
 }

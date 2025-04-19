@@ -2,6 +2,20 @@
     "name": "ИТ",
     "description": "ИТ",
     "tickers": [
-
+        "HEAD", 
+        "HHR", 
+        "ELMT", 
+        "QIWI", 
+        "HHRU", 
+        "DATA", 
+        "VKCO", 
+        "YDEX", 
+        "ASTR", 
+        "DELI", 
+        "DIAS", 
+        "IVAT", 
+        "POSI", 
+        "CNRU", 
+        "SOFL"
     ]
 }
