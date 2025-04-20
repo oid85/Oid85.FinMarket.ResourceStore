@@ -1,0 +1,12 @@
+{
+    "name": "Россети",
+    "description": "Акции компаний Россети",
+    "tickers": [
+        "FEES",
+        "RSTI",
+        "MRKS",
+        "MRKP",
+        "MRKS",
+        "MRKC"
+    ]
+}
