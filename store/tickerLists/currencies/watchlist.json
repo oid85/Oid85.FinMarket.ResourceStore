@@ -3,6 +3,11 @@
     "description": "Лист наблюдения",
     "tickers": [
         "USD000UTSTOM",
-        "CNYRUBTODTOM"
+        "CNYRUBTODTOM",
+        "CNYRUB_TOM",
+        "SLVRUB_TOM",
+        "PLTRUB_TOM",
+        "PLDRUB_TOM",
+        "GLDRUB_TOM"
     ]
 }
