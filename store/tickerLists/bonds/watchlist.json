@@ -2,6 +2,10 @@
   "name": "Лист набл.",
   "description": "Лист наблюдения",
     "tickers": [
-		"RU000A10AUX8"
+		"RU000A10AUX8",
+    "RU000A10B7J8",
+    "RU000A10B7W1",
+    "RU000A10B933",
+    "RU000A10BBD8"
     ]
 }
