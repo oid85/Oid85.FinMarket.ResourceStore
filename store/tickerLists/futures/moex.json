@@ -1,0 +1,8 @@
+{
+    "name": "MOEX",
+    "description": "MOEX",
+    "tickers": [
+        "IMOEXF",
+        "MM"
+    ]
+}

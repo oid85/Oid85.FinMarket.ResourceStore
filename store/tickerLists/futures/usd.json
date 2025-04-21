@@ -1,0 +1,8 @@
+{
+    "name": "USD",
+    "description": "USD",
+    "tickers": [
+        "USDRUBF",
+        "Si"
+    ]
+}

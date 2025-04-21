@@ -1,0 +1,8 @@
+{
+    "name": "EUR",
+    "description": "EUR",
+    "tickers": [
+        "EURRUBF",
+        "Eu"
+    ]
+}
