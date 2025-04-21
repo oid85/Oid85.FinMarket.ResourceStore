@@ -3,6 +3,7 @@
     "description": "MOEX",
     "tickers": [
         "IMOEXF",
-        "MM"
+        "MM",
+        "MX"
     ]
 }
