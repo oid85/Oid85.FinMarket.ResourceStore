@@ -1,0 +1,241 @@
+{
+    "tickerAo": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "tickerAp": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "beta": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+	
+    "totalSharesAo": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "totalSharesAp": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "revenue": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "netIncome": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "operatingIncome": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "ebitda": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+    
+    "pe": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "pb": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "pbv": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "ev": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "bv": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "roe": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "roa": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+
+    "eps": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+    
+    "netInterestMargin": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+    
+    "totalDebt": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    },
+    
+    "netDebt": {
+        "values": [
+            { "year": "2020", "value": "" },
+            { "year": "2021", "value": "" },
+            { "year": "2022", "value": "" },
+            { "year": "2023", "value": "" },
+            { "year": "2024", "value": "" }
+        ],
+        "ltm": "",
+        "unit": ""
+    }
+}
