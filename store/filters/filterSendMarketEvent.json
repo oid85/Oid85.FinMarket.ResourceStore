@@ -10,7 +10,7 @@
     },
     
     {
-        "enable": false,
+        "enable": true,
         "name": "CandleVolumeUp"
     },
     
