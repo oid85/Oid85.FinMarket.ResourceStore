@@ -2,6 +2,9 @@
     "name": "Портфель",
     "description": "Акции в портфеле",
     "tickers": [
-
+        "X5",
+        "T",
+        "SBER",
+        "LENT"
     ]
 }
