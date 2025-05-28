@@ -1,0 +1,10 @@
+{
+    "name": "Транспорт",
+    "description": "Транспорт",
+    "tickers": [
+        "AFLT",
+        "FLOT",
+        "TRNF",
+        "TRNFP"
+    ]
+}
