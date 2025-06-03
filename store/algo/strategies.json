@@ -1,6 +1,7 @@
 [
     {
         "id": "208e13f2-7609-4d5c-832e-71fa75319c22",
+        "enable": true,
         "name": "CloseCrossEma_Long_D",
         "timeframe": "D",
         "params": [
@@ -11,6 +12,7 @@
 
     {
         "id": "41b8cba8-8d1b-4a42-867b-03e798d888ad",
+        "enable": true,
         "name": "HmaInclination_Long_D",
         "timeframe": "D",
         "params": [
