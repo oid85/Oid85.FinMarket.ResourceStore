@@ -1,0 +1,21 @@
+[
+    {
+        "id": "208e13f2-7609-4d5c-832e-71fa75319c22",
+        "name": "CloseCrossEma_Long_D",
+        "timeframe": "D",
+        "params": [
+            { "name": "period", "default": 15, "min": 10, "max": 55, "step": 5 },
+            { "name": "filterPeriod", "default": 70, "min": 70, "max": 100, "step": 5 }
+        ]
+    },
+
+    {
+        "id": "41b8cba8-8d1b-4a42-867b-03e798d888ad",
+        "name": "HmaInclination_Long_D",
+        "timeframe": "D",
+        "params": [
+            { "name": "period", "default": 15, "min": 10, "max": 55, "step": 5 },
+            { "name": "filterPeriod", "default": 70, "min": 70, "max": 100, "step": 5 }
+        ]
+    }
+]

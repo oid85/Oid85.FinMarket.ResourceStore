@@ -1,0 +1,27 @@
+{
+    "periodConfig": {
+        "stabilizationPeriodInCandles": 100,
+        "optimizationWindowInDays": 1095,
+        "backtestWindowInDays": 1095,
+        "backtestShiftInDays": 365,
+        "dailyStabilizationPeriodInDays": 200,
+        "hourlyStabilizationPeriodInDays": 20
+    },
+
+    "moneyManagement": {
+        "money": 100000.0,
+        "percentSize": 50.0
+    },    
+
+    "optimizationResultFilter": {
+        "profitFactor": 3.0,
+        "recoveryFactor": 3.0,
+        "maxDrawdownPercent": 20.0
+    },
+    
+    "backtestResultFilter": {
+        "profitFactor": 0.0,
+        "recoveryFactor": 0.0,
+        "maxDrawdownPercent": 20.0
+    }
+}
