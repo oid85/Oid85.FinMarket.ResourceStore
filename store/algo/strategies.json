@@ -2,7 +2,8 @@
     {
         "id": "208e13f2-7609-4d5c-832e-71fa75319c22",
         "enable": true,
-        "name": "CloseCrossEma_Long_D",
+        "name": "CloseCrossEmaLongDaily",
+        "description": "Вход - Close пересекает EMA снизу-вверх. Выход - Close пересекает EMA сверху-вниз",
         "timeframe": "D",
         "params": [
             { "name": "period", "default": 15, "min": 10, "max": 55, "step": 5 },
@@ -13,7 +14,8 @@
     {
         "id": "41b8cba8-8d1b-4a42-867b-03e798d888ad",
         "enable": true,
-        "name": "HmaInclination_Long_D",
+        "name": "HmaInclinationLongDaily",
+        "description": "Вход - наклон HMA вверх. Выход - наклон HMA вниз",
         "timeframe": "D",
         "params": [
             { "name": "period", "default": 15, "min": 10, "max": 55, "step": 5 },
