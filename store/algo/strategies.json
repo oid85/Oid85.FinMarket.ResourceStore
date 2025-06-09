@@ -6,8 +6,8 @@
         "description": "Пробой границы канала Дончиана. Выход по трейлинг-стопу по противоположной границе",
         "timeframe": "D",
         "params": [
-            { "name": "PeriodEntry", "default": 10, "min": 10, "max": 55, "step": 5 },
-            { "name": "PeriodExit", "default": 10, "min": 10, "max": 55, "step": 5 }
+            { "name": "PeriodEntry", "default": 10, "min": 10, "max": 50, "step": 5 },
+            { "name": "PeriodExit", "default": 10, "min": 10, "max": 50, "step": 5 }
         ]
     }
 ]
