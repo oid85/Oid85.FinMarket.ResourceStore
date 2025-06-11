@@ -3,7 +3,7 @@
         "stabilizationPeriodInCandles": 100,
         "optimizationWindowInDays": 1095,
         "backtestWindowInDays": 1095,
-        "backtestShiftInDays": 365,
+        "backtestShiftInDays": 180,
         "dailyStabilizationPeriodInDays": 200,
         "hourlyStabilizationPeriodInDays": 20
     },
