@@ -5,6 +5,7 @@
         "name": "DonchianBreakoutClassicLongDaily",
         "description": "Пробой границы канала Дончиана. Выход по трейлинг-стопу по противоположной границе",
         "timeframe": "D",
+        "tickerList": "algo/shares",
         "params": [
             { "name": "PeriodEntry", "default": 10, "min": 10, "max": 50, "step": 5 },
             { "name": "PeriodExit", "default": 10, "min": 10, "max": 50, "step": 5 }
