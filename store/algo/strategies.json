@@ -35,5 +35,18 @@
             { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 },
             { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 }
         ]
+    },
+
+    {
+        "id": "bc0f9925-e11f-45ab-beaf-95cf4431a9db",
+        "enable": true,
+        "name": "VolatilityBreakoutClassicLong",
+        "description": "Пробой границы канала волатильности. Выход по трейлинг-стопу по противоположной границе",
+        "timeframe": "D",
+        "tickerList": "algo/shares",
+        "params": [
+            { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 },
+            { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 }
+        ]
     }
 ]
