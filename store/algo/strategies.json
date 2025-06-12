@@ -48,5 +48,18 @@
             { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 },
             { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 }
         ]
+    },
+
+    {
+        "id": "4633fa9a-9a06-4c72-9e01-d938150ef595",
+        "enable": true,
+        "name": "VolatilityBreakoutMiddleLong",
+        "description": "Пробой границы канала волатильности. Выход по трейлинг-стопу по средней линии канала",
+        "timeframe": "D",
+        "tickerList": "algo/shares",
+        "params": [
+            { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 },
+            { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 }
+        ]
     }
 ]
