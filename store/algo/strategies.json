@@ -2,7 +2,7 @@
     {
         "id": "208e13f2-7609-4d5c-832e-71fa75319c22",
         "enable": true,
-        "name": "DonchianBreakoutClassicLongDaily",
+        "name": "DonchianBreakoutClassicLong",
         "description": "Пробой границы канала Дончиана. Выход по трейлинг-стопу по противоположной границе",
         "timeframe": "D",
         "tickerList": "algo/shares",
@@ -15,7 +15,7 @@
     {
         "id": "0cea0f4c-0953-4c93-b52b-7070db24c72b",
         "enable": true,
-        "name": "DonchianBreakoutMiddleLongDaily",
+        "name": "DonchianBreakoutMiddleLong",
         "description": "Пробой границы канала Дончиана. Выход по трейлинг-стопу по средней линии канала",
         "timeframe": "D",
         "tickerList": "algo/shares",
