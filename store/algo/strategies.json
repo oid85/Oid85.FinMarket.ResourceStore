@@ -22,5 +22,18 @@
         "params": [
             { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 }
         ]
-    }    
+    },
+
+    {
+        "id": "b862fc03-2df0-4033-ac39-ccf3624e89de",
+        "enable": true,
+        "name": "SupertrendLong",
+        "description": "Вход в лонг - цена выше Supertrend. Выход из лонга - цена ниже Supertrend",
+        "timeframe": "D",
+        "tickerList": "algo/shares",
+        "params": [
+            { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 },
+            { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 }
+        ]
+    }
 ]

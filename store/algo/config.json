@@ -10,7 +10,7 @@
 
     "moneyManagement": {
         "money": 100000.0,
-        "percentSize": 50.0
+        "percentOfMoney": 50.0
     },    
 
     "optimizationResultFilter": {
