@@ -10,5 +10,17 @@
             { "name": "PeriodEntry", "default": 10, "min": 10, "max": 50, "step": 5 },
             { "name": "PeriodExit", "default": 10, "min": 10, "max": 50, "step": 5 }
         ]
-    }
+    },
+
+    {
+        "id": "0cea0f4c-0953-4c93-b52b-7070db24c72b",
+        "enable": true,
+        "name": "DonchianBreakoutMiddleLongDaily",
+        "description": "Пробой границы канала Дончиана. Выход по трейлинг-стопу по средней линии канала",
+        "timeframe": "D",
+        "tickerList": "algo/shares",
+        "params": [
+            { "name": "PeriodEntry", "default": 10, "min": 10, "max": 50, "step": 5 }
+        ]
+    }    
 ]
