@@ -66,12 +66,24 @@
     {
         "id": "94cf1afa-c43f-498f-a540-ae94aa0f91c6",
         "enable": true,
-        "name": "UltimateSmoother",
+        "name": "UltimateSmootherInclination",
         "description": "Вход - UltimateSmoother растет в течение 3-х свечей. Выход - UltimateSmoother падает в течение 3-х свечей",
         "timeframe": "D",
         "tickerList": "algo/shares",
         "params": [
-            { "name": "Period", "default": 20, "min": 20, "max": 50, "step": 5 }
+            { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 }
+        ]
+    },
+
+    {
+        "id": "ff0b11e8-3a46-4a21-9879-98628c33016c",
+        "enable": true,
+        "name": "HmaInclination",
+        "description": "Вход - HMA растет в течение 3-х свечей. Выход - HMA падает в течение 3-х свечей",
+        "timeframe": "D",
+        "tickerList": "algo/shares",
+        "params": [
+            { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 }
         ]
     }
 ]
