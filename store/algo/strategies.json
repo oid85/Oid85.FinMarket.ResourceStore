@@ -7,8 +7,8 @@
         "timeframe": "D",
         "tickerList": "algo/shares",
         "params": [
-            { "name": "PeriodEntry", "default": 10, "min": 10, "max": 50, "step": 5 },
-            { "name": "PeriodExit", "default": 10, "min": 10, "max": 50, "step": 5 }
+            { "name": "PeriodEntry", "default": 10, "min": 10, "max": 100, "step": 5 },
+            { "name": "PeriodExit", "default": 10, "min": 10, "max": 100, "step": 5 }
         ]
     },
 
@@ -20,7 +20,7 @@
         "timeframe": "D",
         "tickerList": "algo/shares",
         "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 }
+            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }
         ]
     },
 
@@ -32,7 +32,7 @@
         "timeframe": "D",
         "tickerList": "algo/shares",
         "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 },
+            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 },
             { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 }
         ]
     },
@@ -45,7 +45,7 @@
         "timeframe": "D",
         "tickerList": "algo/shares",
         "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 },
+            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 },
             { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 }
         ]
     },
@@ -58,7 +58,7 @@
         "timeframe": "D",
         "tickerList": "algo/shares",
         "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 },
+            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 },
             { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 }
         ]
     },
@@ -66,24 +66,51 @@
     {
         "id": "94cf1afa-c43f-498f-a540-ae94aa0f91c6",
         "enable": true,
-        "name": "UltimateSmootherInclination",
+        "name": "UltimateSmootherInclinationLong",
         "description": "Вход - UltimateSmoother растет в течение 3-х свечей. Выход - UltimateSmoother падает в течение 3-х свечей",
         "timeframe": "D",
         "tickerList": "algo/shares",
         "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 }
+            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }
         ]
     },
 
     {
         "id": "ff0b11e8-3a46-4a21-9879-98628c33016c",
         "enable": true,
-        "name": "HmaInclination",
+        "name": "HmaInclinationLong",
         "description": "Вход - HMA растет в течение 3-х свечей. Выход - HMA падает в течение 3-х свечей",
         "timeframe": "D",
         "tickerList": "algo/shares",
         "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 50, "step": 5 }
+            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }
+        ]
+    },
+
+    {
+        "id": "7b46899c-66f1-4c89-999a-ceabdd64f472",
+        "enable": true,
+        "name": "BollingerBandsClassicLong",
+        "description": "Пробой границы канала полос Боллинджера. Выход по трейлинг-стопу по противоположной границе",
+        "timeframe": "D",
+        "tickerList": "algo/shares",
+        "params": [
+            { "name": "PeriodEntry", "default": 10, "min": 10, "max": 100, "step": 5 },
+            { "name": "PeriodExit", "default": 10, "min": 10, "max": 100, "step": 5 },
+            { "name": "StdDev", "default": 25, "min": 20, "max": 30, "step": 5 }
+        ]
+    },
+
+    {
+        "id": "d56ba77a-4c5e-4ade-97a8-1005d9bafa01",
+        "enable": true,
+        "name": "BollingerBandsMiddleLong",
+        "description": "Пробой границы канала полос Боллинджера. Выход по трейлинг-стопу по средней линии канала",
+        "timeframe": "D",
+        "tickerList": "algo/shares",
+        "params": [
+            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 },
+            { "name": "StdDev", "default": 25, "min": 20, "max": 30, "step": 5 }
         ]
     }
 ]
