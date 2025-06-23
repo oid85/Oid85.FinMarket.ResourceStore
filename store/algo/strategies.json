@@ -1,6 +1,7 @@
 [
     {
         "id": "208e13f2-7609-4d5c-832e-71fa75319c22",
+        "number": 1,
         "enable": true,
         "name": "DonchianBreakoutClassicLong",
         "description": "Пробой границы канала Дончиана. Выход по трейлинг-стопу по противоположной границе",
@@ -14,6 +15,7 @@
 
     {
         "id": "0cea0f4c-0953-4c93-b52b-7070db24c72b",
+        "number": 2,
         "enable": true,
         "name": "DonchianBreakoutMiddleLong",
         "description": "Пробой границы канала Дончиана. Выход по трейлинг-стопу по средней линии канала",
@@ -26,6 +28,7 @@
 
     {
         "id": "b862fc03-2df0-4033-ac39-ccf3624e89de",
+        "number": 3,
         "enable": true,
         "name": "SupertrendLong",
         "description": "Вход в лонг - цена выше Supertrend. Выход из лонга - цена ниже Supertrend",
@@ -39,6 +42,7 @@
 
     {
         "id": "bc0f9925-e11f-45ab-beaf-95cf4431a9db",
+        "number": 4,
         "enable": true,
         "name": "VolatilityBreakoutClassicLong",
         "description": "Пробой границы канала волатильности. Выход по трейлинг-стопу по противоположной границе",
@@ -52,6 +56,7 @@
 
     {
         "id": "4633fa9a-9a06-4c72-9e01-d938150ef595",
+        "number": 5,
         "enable": true,
         "name": "VolatilityBreakoutMiddleLong",
         "description": "Пробой границы канала волатильности. Выход по трейлинг-стопу по средней линии канала",
@@ -65,6 +70,7 @@
 
     {
         "id": "94cf1afa-c43f-498f-a540-ae94aa0f91c6",
+        "number": 6,
         "enable": true,
         "name": "UltimateSmootherInclinationLong",
         "description": "Вход - UltimateSmoother растет в течение 3-х свечей. Выход - UltimateSmoother падает в течение 3-х свечей",
@@ -77,6 +83,7 @@
 
     {
         "id": "ff0b11e8-3a46-4a21-9879-98628c33016c",
+        "number": 7,
         "enable": true,
         "name": "HmaInclinationLong",
         "description": "Вход - HMA растет в течение 3-х свечей. Выход - HMA падает в течение 3-х свечей",
@@ -89,6 +96,7 @@
 
     {
         "id": "7b46899c-66f1-4c89-999a-ceabdd64f472",
+        "number": 8,
         "enable": true,
         "name": "BollingerBandsClassicLong",
         "description": "Пробой границы канала полос Боллинджера. Выход по трейлинг-стопу по противоположной границе",
@@ -103,6 +111,7 @@
 
     {
         "id": "d56ba77a-4c5e-4ade-97a8-1005d9bafa01",
+        "number": 9,
         "enable": true,
         "name": "BollingerBandsMiddleLong",
         "description": "Пробой границы канала полос Боллинджера. Выход по трейлинг-стопу по средней линии канала",
@@ -116,6 +125,7 @@
 
     {
         "id": "b3d8ec9a-3141-4d48-9745-1b9dac76bc59",
+        "number": 10,
         "enable": true,
         "name": "AdaptivePriceChannelAdxClassicLong",
         "description": "Пробой границы канала AdaptivePriceChannelAdx. Выход по трейлинг-стопу по противоположной границе",
@@ -129,6 +139,7 @@
 
     {
         "id": "25cbe7b3-3520-479f-bdb3-b6a9e072bada",
+        "number": 11,
         "enable": true,
         "name": "AdaptivePriceChannelAdxMiddleLong",
         "description": "Пробой границы канала AdaptivePriceChannelAdx. Выход по трейлинг-стопу по средней линии канала",
