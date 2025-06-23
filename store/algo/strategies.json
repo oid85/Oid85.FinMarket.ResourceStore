@@ -112,5 +112,31 @@
             { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 },
             { "name": "StdDev", "default": 25, "min": 20, "max": 30, "step": 5 }
         ]
+    },
+
+    {
+        "id": "b3d8ec9a-3141-4d48-9745-1b9dac76bc59",
+        "enable": true,
+        "name": "BollingerBandsClassicLong",
+        "description": "Пробой границы канала AdaptivePriceChannelAdx. Выход по трейлинг-стопу по противоположной границе",
+        "timeframe": "D",
+        "tickerList": "algo/shares",
+        "params": [
+            { "name": "PeriodPc", "default": 10, "min": 10, "max": 100, "step": 5 },
+            { "name": "PeriodAdx", "default": 10, "min": 10, "max": 100, "step": 5 }
+        ]
+    },
+
+    {
+        "id": "25cbe7b3-3520-479f-bdb3-b6a9e072bada",
+        "enable": true,
+        "name": "BollingerBandsMiddleLong",
+        "description": "Пробой границы канала AdaptivePriceChannelAdx. Выход по трейлинг-стопу по средней линии канала",
+        "timeframe": "D",
+        "tickerList": "algo/shares",
+        "params": [
+            { "name": "PeriodPc", "default": 10, "min": 10, "max": 100, "step": 5 },
+            { "name": "PeriodAdx", "default": 10, "min": 10, "max": 100, "step": 5 }
+        ]
     }
 ]
