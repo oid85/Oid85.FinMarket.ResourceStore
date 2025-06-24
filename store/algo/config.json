@@ -14,14 +14,20 @@
     },    
 
     "optimizationResultFilter": {
-        "profitFactor": 3.0,
-        "recoveryFactor": 3.0,
+        "minProfitFactor": 3.0,
+        "minRecoveryFactor": 3.0,
+        "minWinningTradesPercent": 60.0,
+        "maxWinningTradesPercent": 90.0,
+        "minAnnualYieldReturn": 20.0,
         "maxDrawdownPercent": 20.0
     },
     
     "backtestResultFilter": {
-        "profitFactor": 0.0,
-        "recoveryFactor": 0.0,
+        "minProfitFactor": 3.0,
+        "minRecoveryFactor": 3.0,
+        "minWinningTradesPercent": 60.0,
+        "maxWinningTradesPercent": 90.0,
+        "minAnnualYieldReturn": 20.0,
         "maxDrawdownPercent": 20.0
     }
 }
