@@ -17,7 +17,7 @@
         "minProfitFactor": 3.0,
         "minRecoveryFactor": 3.0,
         "minWinningTradesPercent": 60.0,
-        "maxWinningTradesPercent": 90.0,
+        "maxWinningTradesPercent": 100.0,
         "minAnnualYieldReturn": 20.0,
         "maxDrawdownPercent": 20.0
     },
@@ -26,7 +26,7 @@
         "minProfitFactor": 3.0,
         "minRecoveryFactor": 3.0,
         "minWinningTradesPercent": 60.0,
-        "maxWinningTradesPercent": 90.0,
+        "maxWinningTradesPercent": 100.0,
         "minAnnualYieldReturn": 20.0,
         "maxDrawdownPercent": 20.0
     }
