@@ -2,6 +2,8 @@
     "name": "Лист набл.",
     "description": "Лист наблюдения",
     "tickers": [
+        "SBERF",
+        "GAZPF",
         "CNYRUBF",
         "CR",
         "EURRUBF",
