@@ -1,0 +1,11 @@
+{
+    "name": "Фьючерсы алготорговля",
+    "description": "Фьючерсы алготорговля",
+    "tickers": [
+        "CNYRUBF",
+        "EURRUBF",
+        "GLDRUBF",
+        "IMOEXF",
+        "USDRUBF"   
+    ]
+}

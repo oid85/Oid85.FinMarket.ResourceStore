@@ -11,7 +11,9 @@
     "moneyManagement": {
         "money": 100000.0,
         "percentOfMoney": 100.0,
-        "unitSize": 350.0
+        "unitSize": 350.0,
+        "shareLeverage": 1.0,
+        "futureLeverage": 5.0
     },    
 
     "optimizationResultFilter": {
