@@ -2,10 +2,12 @@
     "name": "Фьючерсы алготорговля",
     "description": "Фьючерсы алготорговля",
     "tickers": [
-        "CNYRUBF",
-        "EURRUBF",
-        "GLDRUBF",
+        "SBERF",
         "IMOEXF",
-        "USDRUBF"   
+        "GAZPF",
+        "EURRUBF",
+        "CNYRUBF",
+        "GLDRUBF",
+        "USDRUBF"  
     ]
 }
