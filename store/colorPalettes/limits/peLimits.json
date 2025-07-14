@@ -1,6 +1,6 @@
 [
     {
-        "highLevel": 100.0,
+        "highLevel": 10000.0,
         "lowLevel": 10.0,
         "color": "#ff0000"
     },

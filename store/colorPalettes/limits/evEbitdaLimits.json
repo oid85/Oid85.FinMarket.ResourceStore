@@ -13,7 +13,7 @@
 
     {
         "highLevel": 3.0,
-        "lowLevel": 0.0,
+        "lowLevel": -1000.0,
         "color": "#00ff22"
     }
 ]
