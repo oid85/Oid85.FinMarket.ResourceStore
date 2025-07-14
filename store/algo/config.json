@@ -9,7 +9,7 @@
     },
 
     "moneyManagement": {
-        "money": 100000.0,
+        "money": 1000000.0,
         "percentOfMoney": 100.0,
         "unitSize": 350.0,
         "shareLeverage": 1.0,
