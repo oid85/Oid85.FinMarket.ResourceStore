@@ -1,153 +1,45 @@
 [
-    {
-        "id": "208e13f2-7609-4d5c-832e-71fa75319c22",
-        "number": 1,
-        "enable": true,
-        "name": "DonchianBreakoutClassicLong",
-        "description": "Пробой границы канала Дончиана. Выход по трейлинг-стопу по противоположной границе",
-        "timeframe": "D",
-        "tickerList": "algo/shares",
-        "params": [
-            { "name": "PeriodEntry", "default": 10, "min": 10, "max": 100, "step": 5 },
-            { "name": "PeriodExit", "default": 10, "min": 10, "max": 100, "step": 5 }
-        ]
-    },
+    { "id": "208e13f2-7609-4d5c-832e-71fa75319c22", "number": 1,  "enable": true, "name": "DonchianBreakoutClassicLong",         "description": "", "timeframe": "D", "tickerList": "algo/shares", "params": [ { "name": "PeriodEntry", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "PeriodExit", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    { "id": "ee94d4b7-4311-448c-9626-c2956c6f2908", "number": 2,  "enable": true, "name": "DonchianBreakoutClassicLong",         "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "PeriodEntry", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "PeriodExit", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    { "id": "73994e28-3628-42f4-b0aa-3b1eb23ed4fb", "number": 3,  "enable": true, "name": "DonchianBreakoutClassicShort",        "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "PeriodEntry", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "PeriodExit", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    
+    { "id": "0cea0f4c-0953-4c93-b52b-7070db24c72b", "number": 4,  "enable": true, "name": "DonchianBreakoutMiddleLong",          "description": "", "timeframe": "D", "tickerList": "algo/shares", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    { "id": "7e071b11-0de7-492f-85db-a90f35a6251c", "number": 5,  "enable": true, "name": "DonchianBreakoutMiddleLong",          "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    { "id": "91fa9f05-c000-4a3e-8c81-f6eae0adb661", "number": 6,  "enable": true, "name": "DonchianBreakoutMiddleShort",         "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    
+    { "id": "b862fc03-2df0-4033-ac39-ccf3624e89de", "number": 7,  "enable": true, "name": "SupertrendLong",                      "description": "", "timeframe": "D", "tickerList": "algo/shares", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
+    { "id": "0302389d-ae09-4e35-a475-8905abd53789", "number": 8,  "enable": true, "name": "SupertrendLong",                      "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
+    { "id": "a6d6c7d6-e2be-44c8-8984-61f68a2d5d4a", "number": 9,  "enable": true, "name": "SupertrendShort",                     "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
+    
+    { "id": "bc0f9925-e11f-45ab-beaf-95cf4431a9db", "number": 10, "enable": true, "name": "VolatilityBreakoutClassicLong",       "description": "", "timeframe": "D", "tickerList": "algo/shares", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
+    { "id": "8f14f2c8-831b-4703-93e2-6095976528ff", "number": 11, "enable": true, "name": "VolatilityBreakoutClassicLong",       "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
+    { "id": "1761ede8-5cb1-4909-8db8-8ae62a19a4d9", "number": 12, "enable": true, "name": "VolatilityBreakoutClassicShort",      "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
 
-    {
-        "id": "0cea0f4c-0953-4c93-b52b-7070db24c72b",
-        "number": 2,
-        "enable": true,
-        "name": "DonchianBreakoutMiddleLong",
-        "description": "Пробой границы канала Дончиана. Выход по трейлинг-стопу по средней линии канала",
-        "timeframe": "D",
-        "tickerList": "algo/shares",
-        "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }
-        ]
-    },
+    { "id": "4633fa9a-9a06-4c72-9e01-d938150ef595", "number": 13, "enable": true, "name": "VolatilityBreakoutMiddleLong",        "description": "", "timeframe": "D", "tickerList": "algo/shares", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
+    { "id": "52ce3fec-534a-46bc-8d7e-3395879d3750", "number": 14, "enable": true, "name": "VolatilityBreakoutMiddleLong",        "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
+    { "id": "23881933-78ad-4bfb-a14a-6ad2078647ea", "number": 15, "enable": true, "name": "VolatilityBreakoutMiddleShort",       "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
 
-    {
-        "id": "b862fc03-2df0-4033-ac39-ccf3624e89de",
-        "number": 3,
-        "enable": true,
-        "name": "SupertrendLong",
-        "description": "Вход в лонг - цена выше Supertrend. Выход из лонга - цена ниже Supertrend",
-        "timeframe": "D",
-        "tickerList": "algo/shares",
-        "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 },
-            { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 }
-        ]
-    },
+    { "id": "94cf1afa-c43f-498f-a540-ae94aa0f91c6", "number": 16, "enable": true, "name": "UltimateSmootherInclinationLong",     "description": "", "timeframe": "D", "tickerList": "algo/shares", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    { "id": "08ba62c2-e02c-4288-af80-1df47c87e6c1", "number": 17, "enable": true, "name": "UltimateSmootherInclinationLong",     "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    { "id": "a75c5967-3a62-42a4-b0ee-372633397ba2", "number": 18, "enable": true, "name": "UltimateSmootherInclinationShort",    "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
 
-    {
-        "id": "bc0f9925-e11f-45ab-beaf-95cf4431a9db",
-        "number": 4,
-        "enable": true,
-        "name": "VolatilityBreakoutClassicLong",
-        "description": "Пробой границы канала волатильности. Выход по трейлинг-стопу по противоположной границе",
-        "timeframe": "D",
-        "tickerList": "algo/shares",
-        "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 },
-            { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 }
-        ]
-    },
+    { "id": "ff0b11e8-3a46-4a21-9879-98628c33016c", "number": 19, "enable": true, "name": "HmaInclinationLong",                  "description": "", "timeframe": "D", "tickerList": "algo/shares", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    { "id": "dfb7b63c-ac3e-4d6a-9274-b1902138e506", "number": 20, "enable": true, "name": "HmaInclinationLong",                  "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    { "id": "85c5a024-2a82-4c0b-94b4-f5e6bf5c133e", "number": 21, "enable": true, "name": "HmaInclinationShort",                 "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
 
-    {
-        "id": "4633fa9a-9a06-4c72-9e01-d938150ef595",
-        "number": 5,
-        "enable": true,
-        "name": "VolatilityBreakoutMiddleLong",
-        "description": "Пробой границы канала волатильности. Выход по трейлинг-стопу по средней линии канала",
-        "timeframe": "D",
-        "tickerList": "algo/shares",
-        "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 },
-            { "name": "Multiplier", "default": 25, "min": 20, "max": 30, "step": 5 }
-        ]
-    },
+    { "id": "7b46899c-66f1-4c89-999a-ceabdd64f472", "number": 22, "enable": true, "name": "BollingerBandsClassicLong",           "description": "", "timeframe": "D", "tickerList": "algo/shares", "params": [ { "name": "PeriodEntry", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "PeriodExit", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "StdDev", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
+    { "id": "bf84acba-bc2f-4039-92f2-d1e13467defc", "number": 23, "enable": true, "name": "BollingerBandsClassicLong",           "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "PeriodEntry", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "PeriodExit", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "StdDev", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
+    { "id": "61f18620-691c-481e-9e32-83fd6a02d3d9", "number": 24, "enable": true, "name": "BollingerBandsClassicShort",          "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "PeriodEntry", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "PeriodExit", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "StdDev", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
 
-    {
-        "id": "94cf1afa-c43f-498f-a540-ae94aa0f91c6",
-        "number": 6,
-        "enable": true,
-        "name": "UltimateSmootherInclinationLong",
-        "description": "Вход - UltimateSmoother растет в течение 3-х свечей. Выход - UltimateSmoother падает в течение 3-х свечей",
-        "timeframe": "D",
-        "tickerList": "algo/shares",
-        "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }
-        ]
-    },
+    { "id": "d56ba77a-4c5e-4ade-97a8-1005d9bafa01", "number": 25, "enable": true, "name": "BollingerBandsMiddleLong",            "description": "", "timeframe": "D", "tickerList": "algo/shares", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "StdDev", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
+    { "id": "4c0f2b96-8ee0-4239-83ba-8ffcfadbdcd8", "number": 26, "enable": true, "name": "BollingerBandsMiddleLong",            "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "StdDev", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
+    { "id": "ecef6dda-7e05-4d12-8ccb-85bb792a0e8f", "number": 27, "enable": true, "name": "BollingerBandsMiddleShort",           "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "StdDev", "default": 25, "min": 20, "max": 30, "step": 5 } ] },
 
-    {
-        "id": "ff0b11e8-3a46-4a21-9879-98628c33016c",
-        "number": 7,
-        "enable": true,
-        "name": "HmaInclinationLong",
-        "description": "Вход - HMA растет в течение 3-х свечей. Выход - HMA падает в течение 3-х свечей",
-        "timeframe": "D",
-        "tickerList": "algo/shares",
-        "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 }
-        ]
-    },
+    { "id": "b3d8ec9a-3141-4d48-9745-1b9dac76bc59", "number": 28, "enable": true, "name": "AdaptivePriceChannelAdxClassicLong",  "description": "", "timeframe": "D", "tickerList": "algo/shares", "params": [ { "name": "PeriodPc", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "PeriodAdx", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    { "id": "53da869c-9f57-48f4-9846-18d496ef8ada", "number": 29, "enable": true, "name": "AdaptivePriceChannelAdxClassicLong",  "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "PeriodPc", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "PeriodAdx", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    { "id": "9a72622a-250c-43e8-ac31-f1cccd2ffc8a", "number": 30, "enable": true, "name": "AdaptivePriceChannelAdxClassicShort", "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "PeriodPc", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "PeriodAdx", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
 
-    {
-        "id": "7b46899c-66f1-4c89-999a-ceabdd64f472",
-        "number": 8,
-        "enable": true,
-        "name": "BollingerBandsClassicLong",
-        "description": "Пробой границы канала полос Боллинджера. Выход по трейлинг-стопу по противоположной границе",
-        "timeframe": "D",
-        "tickerList": "algo/shares",
-        "params": [
-            { "name": "PeriodEntry", "default": 10, "min": 10, "max": 100, "step": 5 },
-            { "name": "PeriodExit", "default": 10, "min": 10, "max": 100, "step": 5 },
-            { "name": "StdDev", "default": 25, "min": 20, "max": 30, "step": 5 }
-        ]
-    },
-
-    {
-        "id": "d56ba77a-4c5e-4ade-97a8-1005d9bafa01",
-        "number": 9,
-        "enable": true,
-        "name": "BollingerBandsMiddleLong",
-        "description": "Пробой границы канала полос Боллинджера. Выход по трейлинг-стопу по средней линии канала",
-        "timeframe": "D",
-        "tickerList": "algo/shares",
-        "params": [
-            { "name": "Period", "default": 10, "min": 10, "max": 100, "step": 5 },
-            { "name": "StdDev", "default": 25, "min": 20, "max": 30, "step": 5 }
-        ]
-    },
-
-    {
-        "id": "b3d8ec9a-3141-4d48-9745-1b9dac76bc59",
-        "number": 10,
-        "enable": true,
-        "name": "AdaptivePriceChannelAdxClassicLong",
-        "description": "Пробой границы канала AdaptivePriceChannelAdx. Выход по трейлинг-стопу по противоположной границе",
-        "timeframe": "D",
-        "tickerList": "algo/shares",
-        "params": [
-            { "name": "PeriodPc", "default": 10, "min": 10, "max": 100, "step": 5 },
-            { "name": "PeriodAdx", "default": 10, "min": 10, "max": 100, "step": 5 }
-        ]
-    },
-
-    {
-        "id": "25cbe7b3-3520-479f-bdb3-b6a9e072bada",
-        "number": 11,
-        "enable": true,
-        "name": "AdaptivePriceChannelAdxMiddleLong",
-        "description": "Пробой границы канала AdaptivePriceChannelAdx. Выход по трейлинг-стопу по средней линии канала",
-        "timeframe": "D",
-        "tickerList": "algo/shares",
-        "params": [
-            { "name": "PeriodPc", "default": 10, "min": 10, "max": 100, "step": 5 },
-            { "name": "PeriodAdx", "default": 10, "min": 10, "max": 100, "step": 5 }
-        ]
-    }
+    { "id": "25cbe7b3-3520-479f-bdb3-b6a9e072bada", "number": 31, "enable": true, "name": "AdaptivePriceChannelAdxMiddleLong",   "description": "", "timeframe": "D", "tickerList": "algo/shares", "params": [ { "name": "PeriodPc", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "PeriodAdx", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    { "id": "c814d124-4ae6-4dbb-a9bf-ec06e3548fc4", "number": 32, "enable": true, "name": "AdaptivePriceChannelAdxMiddleLong",   "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "PeriodPc", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "PeriodAdx", "default": 10, "min": 10, "max": 100, "step": 5 } ] },
+    { "id": "09dc2c4a-d641-49c1-9511-e99c22359a70", "number": 33, "enable": true, "name": "AdaptivePriceChannelAdxMiddleShort",  "description": "", "timeframe": "D", "tickerList": "algo/futures", "params": [ { "name": "PeriodPc", "default": 10, "min": 10, "max": 100, "step": 5 }, { "name": "PeriodAdx", "default": 10, "min": 10, "max": 100, "step": 5 } ] }
 ]
