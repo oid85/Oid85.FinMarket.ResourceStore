@@ -1,0 +1,21 @@
+{
+    "name": "Фьючерсы стат. арбитраж",
+    "description": "Фьючерсы стат. арбитраж",
+    "tickers": [
+        "SBERF",
+        "GAZPF",
+        "CNYRUBF",
+        "CR",
+        "EURRUBF",
+        "Eu",
+        "GLDRUBF",
+        "GL",
+        "NG",
+        "IMOEXF",
+        "MM",
+        "MX",
+        "USDRUBF",
+        "Si",
+        "RI" 
+    ]
+}
