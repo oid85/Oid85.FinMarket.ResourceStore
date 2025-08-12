@@ -10,7 +10,7 @@
 
     "moneyManagement": {
         "money": 3000000.0,
-        "shareLeverage": 1.2,
+        "shareLeverage": 1.0,
         "futureLeverage": 5.0
     },    
 
