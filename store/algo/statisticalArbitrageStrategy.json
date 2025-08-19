@@ -1,0 +1,4 @@
+[
+    { "id": "f617e0ee-472f-4a62-93b8-902945576540", "number": 1, "enable": true, "name": "CrossStdDevLongShort", "description": "", "timeframe": "D", "params": [ { "name": "StdDev", "default": 1, "min": 0.5, "max": 3, "step": 0.5 } ] },
+    { "id": "475ee290-c846-4ca3-a005-562f35d7147b", "number": 2, "enable": true, "name": "CrossStdDevShortLong", "description": "", "timeframe": "D", "params": [ { "name": "StdDev", "default": 1, "min": 0.5, "max": 3, "step": 0.5 } ] }
+]
