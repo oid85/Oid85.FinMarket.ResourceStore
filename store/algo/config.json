@@ -5,7 +5,8 @@
         "backtestWindowInDays": 1095,
         "backtestShiftInDays": 30,
         "dailyStabilizationPeriodInDays": 200,
-        "hourlyStabilizationPeriodInDays": 20
+        "hourlyStabilizationPeriodInDays": 20,
+        "calculateRegressionTailsPeriodInDays": 365
     },
 
     "moneyManagement": {
