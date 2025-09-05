@@ -34,5 +34,13 @@
         "maxWinningTradesPercent": 100.0,
         "minAnnualYieldReturn": 20.0,
         "maxDrawdownPercent": 20.0
+    },    
+
+    "pairArbitrageOptimizationResultFilter": {
+
+    },
+    
+    "pairArbitrageBacktestResultFilter": {
+
     }
 }
