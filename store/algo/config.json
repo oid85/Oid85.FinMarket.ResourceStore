@@ -13,9 +13,9 @@
         "money": 3100000.0,
         "shareLeverage": 1.0,
         "futureLeverage": 5.0,        
-        "statisticalArbitrageMoney": 1000000.0,
-        "statisticalArbitrageShareLeverage": 3.0,
-        "statisticalArbitrageFutureLeverage": 3.0
+        "pairArbitrageMoney": 1000000.0,
+        "pairArbitrageShareLeverage": 3.0,
+        "pairArbitrageFutureLeverage": 3.0
     },    
 
     "optimizationResultFilter": {
