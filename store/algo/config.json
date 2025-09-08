@@ -14,8 +14,8 @@
         "shareLeverage": 1.0,
         "futureLeverage": 5.0,        
         "pairArbitrageMoney": 1000000.0,
-        "pairArbitrageShareLeverage": 3.0,
-        "pairArbitrageFutureLeverage": 3.0
+        "pairArbitrageShareLeverage": 1.0,
+        "pairArbitrageFutureLeverage": 5.0
     },    
 
     "optimizationResultFilter": {
@@ -37,10 +37,14 @@
     },    
 
     "pairArbitrageOptimizationResultFilter": {
-
+        "minWinningTradesPercent": 60.0,
+        "maxWinningTradesPercent": 100.0,
+        "minAnnualYieldReturn": 0.0
     },
     
     "pairArbitrageBacktestResultFilter": {
-
+        "minWinningTradesPercent": 60.0,
+        "maxWinningTradesPercent": 100.0,
+        "minAnnualYieldReturn": 0.0
     }
 }
