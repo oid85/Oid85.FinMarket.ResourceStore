@@ -43,7 +43,7 @@
     },
     
     "pairArbitrageBacktestResultFilter": {
-        "minWinningTradesPercent": 60.0,
+        "minWinningTradesPercent": 0.0,
         "maxWinningTradesPercent": 100.0,
         "minAnnualYieldReturn": 0.0
     }
